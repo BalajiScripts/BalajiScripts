@@ -14,6 +14,23 @@
 
 
 ###
+---
+
+## 🎯 Currently Mastering
+
+<div align="center">
+
+| 🎓 Learning Track | 📈 Progress | 🎯 Goal |
+|-------------------|-------------|---------|
+| **DSA with Java** | 🟩🟩🟩🟨⬜ | Master Problem Solving |
+| **Deep Learning** | 🟩🟩🟨⬜⬜ | Build AI Applications |
+| **Full Stack Development** | 🟩🟩🟩🟩⬜ | End-to-End Solutions |
+| **DevOps & CI/CD** | 🟩🟩⬜⬜⬜ | Production Deployment |
+
+</div>
+
+---
+
 
 <br clear="both">
 
