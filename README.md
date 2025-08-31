@@ -10,7 +10,6 @@
 
 <h5 align="left">🔭 I’m currently working on  <br>- Python automation tools and AI-powered scripts  <br><br>👯 I’m looking to collaborate on  <br>- Open-source automation projects, AI integrations, and cloud deployments  <br><br>🌱 I’m currently learning  <br>- FastAPI, advanced AWS services, and ML model deployment strategies  <br><br>💬 Ask me about  <br>- Automation, full-stack development, Python + Java integrations, and DevOps workflow</h5>
 
-<img width="968" height="968" alt="cropped_circle_image" src="https://github.com/user-attachments/assets/ed7c40d3-1c4f-4671-8d45-c1acf8b25056" />
 
 
 
