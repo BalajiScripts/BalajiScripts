@@ -18,8 +18,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">Programming 💻</h2>
 
 ###
@@ -33,8 +31,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="center">Frontend 🎨</h2>
 
@@ -51,8 +47,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="center">Backend ⚡</h2>
 
@@ -71,8 +65,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="center">🗄️ Databases</h2>
 
@@ -106,8 +98,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">Tools & Platforms ⚙</h2>
 
 ###
@@ -129,8 +119,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">Let's Connect 🌎</h2>
 
