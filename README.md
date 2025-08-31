@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BalajiScripts.BalajiScripts&left_text=Profile%20Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BalajiScripts.BalajiScripts&left_color=darkcyan&right_color=darkgray&left_text=Profile%20Views"  />
 </div>
 
 ###
@@ -160,8 +160,6 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="center">Ⓣⓗⓐⓝⓚ ⓨⓞⓤ ⓕⓞⓡ ⓒⓞⓜⓘⓝⓖ ⓗⓔⓡⓔ</h2>
+<h2 align="center">𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕔𝕠𝕞𝕚𝕟𝕘 𝕙𝕖𝕣𝕖 🔥</h2>
 
 ###
