@@ -78,8 +78,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">Cloud & DevOps ☁️</h2>
 
 ###
