@@ -14,9 +14,8 @@
 
 
 ###
----
 
-## 🎯 Currently Mastering
+## Currently Mastering 🎯
 
 <div align="center">
 
@@ -29,7 +28,6 @@
 
 </div>
 
----
 
 
 <br clear="both">
