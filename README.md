@@ -1,4 +1,10 @@
-<h1 align="center">Hi there! Welcome to my digital workspace 👋</h1>
+<h1 align="center">Hi there! Welcome to my Digital Workspace 👋</h1>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BalajiScripts.BalajiScripts&left_text=Profile%20Views"  />
+</div>
 
 ###
 
@@ -6,12 +12,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BalajiScripts&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BalajiScripts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<br clear="both">
+
+<h2 align="left">Technology Stack 🤖</h2>
 
 ###
+
+<br clear="both">
 
 <h2 align="center">Programming 💻</h2>
 
@@ -26,6 +33,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="center">Frontend 🎨</h2>
 
@@ -42,6 +51,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="center">Backend ⚡</h2>
 
@@ -61,6 +72,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="center">🗄️ Databases</h2>
 
 ###
@@ -72,6 +85,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="center">Cloud & DevOps ☁️</h2>
 
@@ -90,6 +105,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="center">Tools & Platforms ⚙</h2>
 
@@ -115,11 +132,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BalajiScripts/BalajiScripts/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="center">Let's Connect 🌎</h2>
+<h2 align="left">Let's Connect 🌎</h2>
 
 ###
 
@@ -140,7 +153,7 @@
 
 ###
 
-<h2 align="center">⋆.˚✮𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 ✮˚.⋆</h2>
+<img src="https://raw.githubusercontent.com/BalajiScripts/BalajiScripts/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -148,13 +161,21 @@
 
 ###
 
+<h2 align="left">Github Statistics 📈</h2>
+
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BalajiScripts.BalajiScripts&left_text=Profile%20Views"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BalajiScripts&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BalajiScripts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=BalajiScripts&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BalajiScripts&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<div align="left">
-</div>
+<br clear="both">
+
+<h2 align="center">Ⓣⓗⓐⓝⓚ ⓨⓞⓤ ⓕⓞⓡ ⓒⓞⓜⓘⓝⓖ ⓗⓔⓡⓔ</h2>
 
 ###
