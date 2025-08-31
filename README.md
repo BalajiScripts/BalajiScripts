@@ -2,7 +2,7 @@
 
 # 🚀 **Balaji U** | Software Developer & Tech Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=nitishb-dev&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
 [![GitHub followers](https://img.shields.io/github/followers/nitishb-dev?label=Followers&style=social)](https://github.com/nitishb-dev?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/nitishb-dev?label=Profile%20Stars&style=social)](https://github.com/nitishb-dev)
 
