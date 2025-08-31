@@ -1,79 +1,102 @@
-<h1 align="center">Hi 👋, I'm Balaji</h1>
-<h3 align="center">Full Stack Developer | Automation Enthusiast | AI Explorer</h3>
+<div align="center">
 
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Automation+Enthusiast;AI+%26+ML+Explorer;Always+learning+new+things" alt="Typing SVG" />
-  </a>
-</p>
+# 🚀 **Balaji** | Software Developer & Automation Enthusiast  
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=BalajiScripts&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/BalajiScripts?label=Followers&style=social)](https://github.com/BalajiScripts?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/BalajiScripts?label=Profile%20Stars&style=social)](https://github.com/BalajiScripts)
 
-## 🚀 About Me
-- 🌱 Currently learning **AI, ML, and advanced automation**
-- 🔭 Building cool **automation scripts & full-stack apps**
-- ⚡ Fun fact: I love creating scripts that save hours of manual work
-- 🎯 Goal: **Deploy AI models & scalable apps**
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+
+</div>
 
 ---
 
-## 🛠️ Skills
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Automation+%26+DevOps+Enthusiast+⚡;Always+Learning%2C+Always+Building+%F0%9F%92%AF" alt="Typing SVG" />
+</div>
 
-**Languages:** Python | JavaScript | C++ | Bash  
-**Frontend:** React | HTML5 | CSS3 | TailwindCSS  
-**Backend:** Node.js | Express.js | Django | Flask  
-**Databases:** MySQL | MongoDB | SQLite | Firebase  
-**Cloud & DevOps:** AWS | Docker | GitHub Actions  
-**Tools:** Git | GitHub | VS Code | Postman | Figma  
+<br>
 
----
+<div align="center">
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-## 📈 GitHub Analytics
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BalajiScripts&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BalajiScripts&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>
+```typescript
+const balaji = {
+  location: "India 🇮🇳",
+  role: "Software Developer",
+  passion: ["Problem Solving", "AI", "Automation", "Open Source"],
+  currentFocus: "Advanced Python Automation & AI-powered Projects",
+  funFact: "I love building scripts that save hours of manual work ⏳➡️⚡"
+}
+🌟 Building impactful software & automations
+🎯 Focused on scalable full stack solutions
+🔥 Exploring cloud & AI integrations
+💡 Always learning and experimenting
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalajiScripts&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+</td> <td valign="top" width="50%"> <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding" width="100%" /> </td> </tr> </table> </div>
+🎯 Currently Mastering
+<div align="center">
+🎓 Learning Track	📈 Progress	🎯 Goal
+DSA with Java	🟩🟩🟩🟨⬜	Master Problem Solving
+Full Stack Development	🟩🟩🟩🟩⬜	Build scalable apps & APIs
+Automation Scripts	🟩🟩🟩⬜⬜	Streamline workflows
+AI & ML Projects	🟩🟩🟨⬜⬜	Deploy AI models in real-world apps
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BalajiScripts&theme=tokyo-night" alt="Activity Graph"/>
-</p>
+</div>
+🛠️ Tech Arsenal
+<div align="center">
+💻 Languages
 
----
 
-## 📌 Featured Projects
 
-### 🔹 [Automation Scripts](https://github.com/BalajiScripts/Automation)
-⚡ Scripts that automate repetitive tasks and save time.  
-**Tech Stack:** Python, Bash  
+🎨 Frontend
 
-### 🔹 [Full Stack Web App](https://github.com/BalajiScripts/WebApp)
-🌐 A modern full-stack app with authentication & APIs.  
-**Tech Stack:** React, Node.js, Express, MongoDB  
 
-### 🔹 [AI & ML Experiments](https://github.com/BalajiScripts/AI-ML)
-🤖 Exploring AI/ML with small real-world projects.  
-**Tech Stack:** Python, TensorFlow, scikit-learn  
 
----
 
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/balaji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:balajiscripts@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/BalajiScripts" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/balajiscripts" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
 
----
 
-## 🐍 Snake Contributions
-![snake gif](https://github.com/BalajiScripts/BalajiScripts/blob/output/github-contribution-grid-snake.svg)
+⚡ Backend
 
----
-<p align="center">✨ "Code is like humor. When you have to explain it, it’s bad." ✨</p>
+
+
+
+🗄️ Databases
+
+
+
+
+☁️ Cloud & DevOps
+
+
+
+
+🎨 Design & Tools
+
+
+
+
+
+
+
+
+
+</div>
+📊 GitHub Analytics
+
+<div align="center"> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BalajiScripts&show_icons=true&count_private=true&hide_border=true&title_color=00b4d6&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Balaji's GitHub Stats" /> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalajiScripts&layout=compact&hide_border=true&title_color=00b4d6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com/?user=BalajiScripts&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00b4d6&fire=00b4d6&currStreakLabel=00b4d6" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=BalajiScripts&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" /> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BalajiScripts&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" /> </div>
+🌐 Let's Connect
+<div align="center">
+
+
+
+
+</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=white&animation=twinkling" width="100%" /> </div> <div align="center"> ✨ *"Quality is much better than Quantity. One home run is much better than two doubles."* – Steve Jobs ✨ </div> ```
