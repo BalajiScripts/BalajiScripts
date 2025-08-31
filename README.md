@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! Welcome to my digital workspace 👋</h2>
+<h1 align="center">Hi there! Welcome to my digital workspace 👋</h1>
 
 ###
 
