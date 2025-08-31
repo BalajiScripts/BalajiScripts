@@ -1,102 +1,18 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on<br>- Python automation tools and AI-powered scripts<br><br>👯 I’m looking to collaborate on<br>- Open-source automation projects, AI integrations, and cloud deployments<br><br>🌱 I’m currently learning<br>- FastAPI, advanced AWS services, and ML model deployment strategies<br><br>💬 Ask me about<br>- Automation, full-stack development, Python + Java integrations, and DevOps workflows
 
-# 🚀 **Balaji** | Software Developer & Automation Enthusiast  
 
-![Profile Views](https://komarev.com/ghpvc/?username=BalajiScripts&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/BalajiScripts?label=Followers&style=social)](https://github.com/BalajiScripts?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/BalajiScripts?label=Profile%20Stars&style=social)](https://github.com/BalajiScripts)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/balaji-u07/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/balaji_u08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:busybuji93@gmail.com) 
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BalajiScripts&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BalajiScripts&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BalajiScripts&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=BalajiScripts&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Automation+%26+DevOps+Enthusiast+⚡;Always+Learning%2C+Always+Building+%F0%9F%92%AF" alt="Typing SVG" />
-</div>
-
-<br>
-
-<div align="center">
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### 👨‍💻 About Me
-
-```typescript
-const balaji = {
-  location: "India 🇮🇳",
-  role: "Software Developer",
-  passion: ["Problem Solving", "AI", "Automation", "Open Source"],
-  currentFocus: "Advanced Python Automation & AI-powered Projects",
-  funFact: "I love building scripts that save hours of manual work ⏳➡️⚡"
-}
-🌟 Building impactful software & automations
-🎯 Focused on scalable full stack solutions
-🔥 Exploring cloud & AI integrations
-💡 Always learning and experimenting
-
-</td> <td valign="top" width="50%"> <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding" width="100%" /> </td> </tr> </table> </div>
-🎯 Currently Mastering
-<div align="center">
-🎓 Learning Track	📈 Progress	🎯 Goal
-DSA with Java	🟩🟩🟩🟨⬜	Master Problem Solving
-Full Stack Development	🟩🟩🟩🟩⬜	Build scalable apps & APIs
-Automation Scripts	🟩🟩🟩⬜⬜	Streamline workflows
-AI & ML Projects	🟩🟩🟨⬜⬜	Deploy AI models in real-world apps
-
-</div>
-🛠️ Tech Arsenal
-<div align="center">
-💻 Languages
-
-
-
-🎨 Frontend
-
-
-
-
-
-
-⚡ Backend
-
-
-
-
-🗄️ Databases
-
-
-
-
-☁️ Cloud & DevOps
-
-
-
-
-🎨 Design & Tools
-
-
-
-
-
-
-
-
-
-</div>
-📊 GitHub Analytics
-
-<div align="center"> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BalajiScripts&show_icons=true&count_private=true&hide_border=true&title_color=00b4d6&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Balaji's GitHub Stats" /> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalajiScripts&layout=compact&hide_border=true&title_color=00b4d6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com/?user=BalajiScripts&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00b4d6&fire=00b4d6&currStreakLabel=00b4d6" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=BalajiScripts&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" /> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BalajiScripts&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" /> </div>
-🌐 Let's Connect
-<div align="center">
-
-
-
-
-</div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=white&animation=twinkling" width="100%" /> </div> <div align="center"> ✨ *"Quality is much better than Quantity. One home run is much better than two doubles."* – Steve Jobs ✨ </div> ```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
