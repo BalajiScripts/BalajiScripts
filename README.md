@@ -23,7 +23,7 @@
 |-------------------|-------------|---------|
 | **DSA with Java** | 🟩🟩🟩🟨⬜ | Master Problem Solving |
 | **Deep Learning** | 🟩🟩🟨⬜⬜ | Build AI Applications |
-| **Full Stack Development** | 🟩🟩🟩🟩⬜ | End-to-End Solutions |
+| **Full Stack Development** | 🟩🟩🟨⬜⬜ | End-to-End Solutions |
 | **DevOps & CI/CD** | 🟩🟩⬜⬜⬜ | Production Deployment |
 
 </div>
